@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storage.googleapis.com/gbp-sites-storage/campaign-54137-workfitme-mobile-physical-therapy/sitemap.xml
